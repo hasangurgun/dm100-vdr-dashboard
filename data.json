@@ -8,7 +8,7 @@
   "lon": 28.9744,
   "alert": {
     "code": "SEC002",
-    "title": "Audit Chain Break",
+    "title": "Fire Detected",
     "severity": "WARNING",
     "source": "/data/log/audit.jsonl"
   },
