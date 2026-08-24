@@ -1,0 +1,14 @@
+{
+  "mode": "NORMAL",
+  "cpu_temp": 52.4,
+  "storage": 58.2,
+  "emmc_life": 90.0,
+  "poe_power": 1.4,
+  "alert": {
+    "code": "SEC002",
+    "title": "Audit Chain Break",
+    "severity": "WARNING",
+    "source": "/data/log/audit.jsonl"
+  },
+  "uptime_seconds": 742503
+}
