@@ -1,9 +1,11 @@
 {
   "mode": "NORMAL",
-  "cpu_temp": 41.34,
-  "storage": 41.41,
+  "cpu_temp": 52.4,
+  "storage": 58.2,
   "emmc_life": 90.0,
   "poe_power": 1.4,
+  "lat": 40.9762,
+  "lon": 28.9744,
   "alert": {
     "code": "SEC002",
     "title": "Audit Chain Break",
